@@ -1,0 +1,1 @@
+<img src="/template.JPG" alt="preview"/>
